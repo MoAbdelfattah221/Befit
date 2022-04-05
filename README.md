@@ -1,2 +1,4 @@
 # Befit
- This is a Responsive Website for a gymnasium techologies used Html , CSS 
+This is a Responsive Website for a gymnasium
+Techologies used
+Html , CSS.
